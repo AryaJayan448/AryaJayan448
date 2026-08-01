@@ -17,7 +17,7 @@
 />
 
 <!-- ─────────────  TYPING LINE  ───────────── -->
-<a href="https://github.com/aryajayan55">
+<a href="https://github.com/AryaJayan448">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=00F0FF&center=true&vCenter=true&random=false&width=680&lines=%3E+booting+soc_analyst.sh...;%3E+MSc+Cybersecurity+%7C+Blue+Team+%7C+SIEM;%3E+monitoring+for+anomalies...;%3E+threat+detected%3A+none.+access+granted_"
     alt="typing"
@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00F0FF?style=for-the-badge&labelColor=0A0A12" alt="status"/>
 <img src="https://img.shields.io/badge/ROLE-SOC_ANALYST-FF2E97?style=for-the-badge&labelColor=0A0A12" alt="role"/>
 <img src="https://img.shields.io/badge/EDUCATION-MSc_CYBERSECURITY-B14AED?style=for-the-badge&labelColor=0A0A12" alt="education"/>
-<img src="https://komarev.com/ghpvc/?username=aryajayan55&style=for-the-badge&color=00F0FF&label=VISITORS" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=AryaJayan448&style=for-the-badge&color=00F0FF&label=VISITORS" alt="views"/>
 
 </div>
 
@@ -108,33 +108,33 @@ analyst:
 
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=aryajayan55&show_icons=true&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github"
+  src="https://github-readme-stats.vercel.app/api?username=AryaJayan448&show_icons=true&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github"
   alt="stats"
 />
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryajayan55&layout=compact&hide_border=true&bg_color=0A0A12&title_color=00F0FF&text_color=C9D1D9&langs_count=8"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaJayan448&layout=compact&hide_border=true&bg_color=0A0A12&title_color=00F0FF&text_color=C9D1D9&langs_count=8"
   alt="top langs"
 />
 
 <br/><br/>
 
 <img
-  src="https://streak-stats.demolab.com?user=aryajayan55&hide_border=true&background=0A0A12&stroke=B14AED&ring=FF2E97&fire=FF2E97&currStreakLabel=00F0FF&sideLabels=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+  src="https://streak-stats.demolab.com?user=AryaJayan448&hide_border=true&background=0A0A12&stroke=B14AED&ring=FF2E97&fire=FF2E97&currStreakLabel=00F0FF&sideLabels=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
   alt="streak"
 />
 
 <br/><br/>
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=aryajayan55&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"
+  src="https://github-profile-trophy.vercel.app/?username=AryaJayan448&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"
   alt="trophies"
 />
 
 <br/><br/>
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=aryajayan55&bg_color=0A0A12&color=00F0FF&line=FF2E97&point=B14AED&area=true&area_color=B14AED&hide_border=true&custom_title=Contribution%20Activity"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AryaJayan448&bg_color=0A0A12&color=00F0FF&line=FF2E97&point=B14AED&area=true&area_color=B14AED&hide_border=true&custom_title=Contribution%20Activity"
   width="100%"
   alt="activity graph"
 />
@@ -149,27 +149,27 @@ analyst:
 
 <div align="center">
 
-<a href="https://github.com/aryajayan55/home-soc-lab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryajayan55&repo=home-soc-lab&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project one"/>
+<a href="https://github.com/AryaJayan448/home-soc-lab">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryaJayan448&repo=home-soc-lab&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project one"/>
 </a>
-<a href="https://github.com/aryajayan55/detection-rules">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryajayan55&repo=detection-rules&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project two"/>
+<a href="https://github.com/AryaJayan448/detection-rules">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryaJayan448&repo=detection-rules&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project two"/>
 </a>
-<a href="https://github.com/aryajayan55/malware-analysis-notes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryajayan55&repo=malware-analysis-notes&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project three"/>
+<a href="https://github.com/AryaJayan448/malware-analysis-notes">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryaJayan448&repo=malware-analysis-notes&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project three"/>
 </a>
-<a href="https://github.com/aryajayan55/ctf-writeups">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryajayan55&repo=ctf-writeups&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project four"/>
+<a href="https://github.com/AryaJayan448/ctf-writeups">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryaJayan448&repo=ctf-writeups&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project four"/>
 </a>
 
 </div>
 
 | ▸ Project | Description | Stack |
 |:--|:--|:--|
-| **[home-soc-lab](https://github.com/aryajayan55/home-soc-lab)** | Self-hosted SOC lab — Wazuh + ELK ingesting Sysmon/Suricata logs for detection practice | `Wazuh` `ELK` `Docker` |
-| **[detection-rules](https://github.com/aryajayan55/detection-rules)** | Custom Sigma/YARA rules mapped to MITRE ATT&CK techniques | `Sigma` `YARA` `Python` |
-| **[malware-analysis-notes](https://github.com/aryajayan55/malware-analysis-notes)** | Static/dynamic analysis write-ups from sandboxed samples | `Python` `Ghidra` |
-| **[ctf-writeups](https://github.com/aryajayan55/ctf-writeups)** | Walkthroughs from TryHackMe / HackTheBox rooms and boxes | `Linux` `Nmap` `Burp Suite` |
+| **[home-soc-lab](https://github.com/AryaJayan448/home-soc-lab)** | Self-hosted SOC lab — Wazuh + ELK ingesting Sysmon/Suricata logs for detection practice | `Wazuh` `ELK` `Docker` |
+| **[detection-rules](https://github.com/AryaJayan448/detection-rules)** | Custom Sigma/YARA rules mapped to MITRE ATT&CK techniques | `Sigma` `YARA` `Python` |
+| **[malware-analysis-notes](https://github.com/AryaJayan448/malware-analysis-notes)** | Static/dynamic analysis write-ups from sandboxed samples | `Python` `Ghidra` |
+| **[ctf-writeups](https://github.com/AryaJayan448/ctf-writeups)** | Walkthroughs from TryHackMe / HackTheBox rooms and boxes | `Linux` `Nmap` `Burp Suite` |
 
 <sub>Swap these repo names for your real ones — rename or delete rows to match what's actually in your GitHub.</sub>
 
@@ -182,9 +182,9 @@ analyst:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryajayan55/aryajayan55/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryajayan55/aryajayan55/output/snake.svg"/>
-  <img src="https://raw.githubusercontent.com/aryajayan55/aryajayan55/output/snake.svg" width="100%" alt="snake eating contributions"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryaJayan448/AryaJayan448/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AryaJayan448/AryaJayan448/output/snake.svg"/>
+  <img src="https://raw.githubusercontent.com/AryaJayan448/AryaJayan448/output/snake.svg" width="100%" alt="snake eating contributions"/>
 </picture>
 
 <sub><i>generated nightly by GitHub Actions — see <code>.github/workflows/snake.yml</code></i></sub>
