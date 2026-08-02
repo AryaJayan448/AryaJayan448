@@ -106,12 +106,12 @@ analyst:
 
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=AryaJayan448&show_icons=true&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github"
+  src="https://github-readme-stats-fast.vercel.app/api?username=AryaJayan448&show_icons=true&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github"
   alt="stats"
 />
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaJayan448&layout=compact&hide_border=true&bg_color=0A0A12&title_color=00F0FF&text_color=C9D1D9&langs_count=8"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AryaJayan448&layout=compact&hide_border=true&bg_color=0A0A12&title_color=00F0FF&text_color=C9D1D9&langs_count=8"
   alt="top langs"
 />
 
@@ -125,7 +125,7 @@ analyst:
 <br/><br/>
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=AryaJayan448&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"
+  src="https://github-trophies.vercel.app/?username=AryaJayan448&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"
   alt="trophies"
 />
 
@@ -148,16 +148,16 @@ analyst:
 <div align="center">
 
 <a href="https://github.com/AryaJayan448/mitre-attack-emotet-analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryaJayan448&repo=mitre-attack-emotet-analysis&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project one"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AryaJayan448&repo=mitre-attack-emotet-analysis&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project one"/>
 </a>
 <a href="https://github.com/AryaJayan448/PRODIGY_CS_05">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryaJayan448&repo=PRODIGY_CS_05&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project two"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AryaJayan448&repo=PRODIGY_CS_05&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project two"/>
 </a>
 <a href="https://github.com/AryaJayan448/PRODIGY_CS_02">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryaJayan448&repo=PRODIGY_CS_02&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project three"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AryaJayan448&repo=PRODIGY_CS_02&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project three"/>
 </a>
 <a href="https://github.com/AryaJayan448/PRODIGY_CS_01">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryaJayan448&repo=PRODIGY_CS_01&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project four"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AryaJayan448&repo=PRODIGY_CS_01&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project four"/>
 </a>
 
 </div>
