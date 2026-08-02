@@ -1,8 +1,6 @@
 <!--
   ╔══════════════════════════════════════════════════════════════╗
   ║  NEON CYBERPUNK / SOC-ANALYST PROFILE README                 ║
-  ║  Still TODO below: YOUR_LINKEDIN, YOUR_THM_HANDLE,           ║
-  ║  YOUR_HTB_ID, YOUR_HANDLE (X), YOUR_PORTFOLIO, project repos ║
   ║  Palette: magenta #FF2E97 · cyan #00F0FF · violet #B14AED    ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
@@ -149,29 +147,27 @@ analyst:
 
 <div align="center">
 
-<a href="https://github.com/AryaJayan448/home-soc-lab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryaJayan448&repo=home-soc-lab&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project one"/>
+<a href="https://github.com/AryaJayan448/mitre-attack-emotet-analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryaJayan448&repo=mitre-attack-emotet-analysis&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project one"/>
 </a>
-<a href="https://github.com/AryaJayan448/detection-rules">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryaJayan448&repo=detection-rules&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project two"/>
+<a href="https://github.com/AryaJayan448/PRODIGY_CS_05">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryaJayan448&repo=PRODIGY_CS_05&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project two"/>
 </a>
-<a href="https://github.com/AryaJayan448/malware-analysis-notes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryaJayan448&repo=malware-analysis-notes&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project three"/>
+<a href="https://github.com/AryaJayan448/PRODIGY_CS_02">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryaJayan448&repo=PRODIGY_CS_02&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project three"/>
 </a>
-<a href="https://github.com/AryaJayan448/ctf-writeups">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryaJayan448&repo=ctf-writeups&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project four"/>
+<a href="https://github.com/AryaJayan448/PRODIGY_CS_01">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryaJayan448&repo=PRODIGY_CS_01&hide_border=true&bg_color=0A0A12&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="project four"/>
 </a>
 
 </div>
 
 | ▸ Project | Description | Stack |
 |:--|:--|:--|
-| **[home-soc-lab](https://github.com/AryaJayan448/home-soc-lab)** | Self-hosted SOC lab — Wazuh + ELK ingesting Sysmon/Suricata logs for detection practice | `Wazuh` `ELK` `Docker` |
-| **[detection-rules](https://github.com/AryaJayan448/detection-rules)** | Custom Sigma/YARA rules mapped to MITRE ATT&CK techniques | `Sigma` `YARA` `Python` |
-| **[malware-analysis-notes](https://github.com/AryaJayan448/malware-analysis-notes)** | Static/dynamic analysis write-ups from sandboxed samples | `Python` `Ghidra` |
-| **[ctf-writeups](https://github.com/AryaJayan448/ctf-writeups)** | Walkthroughs from TryHackMe / HackTheBox rooms and boxes | `Linux` `Nmap` `Burp Suite` |
-
-<sub>Swap these repo names for your real ones — rename or delete rows to match what's actually in your GitHub.</sub>
+| **[mitre-attack-emotet-analysis](https://github.com/AryaJayan448/mitre-attack-emotet-analysis)** | MITRE ATT&CK threat analysis & Sigma detection rules for the Emotet trojan | `Sigma` `MITRE ATT&CK` |
+| **[PRODIGY_CS_05](https://github.com/AryaJayan448/PRODIGY_CS_05)** | Network packet analyzer — captures & inspects live traffic, IPs, ports, protocols | `Python` `Scapy` |
+| **[PRODIGY_CS_02](https://github.com/AryaJayan448/PRODIGY_CS_02)** | Pixel-manipulation image encryption tool | `Python` |
+| **[PRODIGY_CS_01](https://github.com/AryaJayan448/PRODIGY_CS_01)** | Caesar cipher encryption & decryption tool | `Python` |
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/gradient-line.gif" width="100%" alt="divider"/>
@@ -199,22 +195,16 @@ analyst:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/arya-jayan55">
   <img src="https://img.shields.io/badge/LinkedIn-0A0A12?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="linkedin"/>
 </a>
-<a href="https://tryhackme.com/p/YOUR_THM_HANDLE">
+<a href="https://tryhackme.com/p/aryaj6212">
   <img src="https://img.shields.io/badge/TryHackMe-0A0A12?style=for-the-badge&logo=tryhackme&logoColor=00F0FF" alt="tryhackme"/>
-</a>
-<a href="https://app.hackthebox.com/profile/YOUR_HTB_ID">
-  <img src="https://img.shields.io/badge/HackTheBox-0A0A12?style=for-the-badge&logo=hackthebox&logoColor=00F0FF" alt="hackthebox"/>
 </a>
 <a href="mailto:aryajayan55@gmail.com">
   <img src="https://img.shields.io/badge/Email-0A0A12?style=for-the-badge&logo=gmail&logoColor=FF2E97" alt="email"/>
 </a>
-<a href="https://x.com/YOUR_HANDLE">
-  <img src="https://img.shields.io/badge/X-0A0A12?style=for-the-badge&logo=x&logoColor=FF2E97" alt="x"/>
-</a>
-<a href="https://YOUR_PORTFOLIO.com">
+<a href="https://aryajayan.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-0A0A12?style=for-the-badge&logo=vercel&logoColor=B14AED" alt="portfolio"/>
 </a>
 
