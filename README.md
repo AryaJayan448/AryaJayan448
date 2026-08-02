@@ -11,7 +11,7 @@
 
 <!-- ─────────────  HEADER BANNER  ───────────── -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:B14AED,100:FF2E97&height=220&section=header&text=ARYA%20JAYAN&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%3C%20MSc%20Cybersecurity%20%2F%2F%20SOC%20Analyst%20%2F%3E&descSize=16&descAlignY=56"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:B14AED,100:FF2E97&height=220&section=header&text=ARYA%20JAYAN&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=MSc%20Cybersecurity%20%3A%3A%20SOC%20Analyst&descSize=16&descAlignY=56"
   width="100%"
   alt="banner"
 />
