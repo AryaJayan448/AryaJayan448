@@ -129,14 +129,6 @@ analyst:
   alt="trophies"
 />
 
-<br/><br/>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AryaJayan448&bg_color=0A0A12&color=00F0FF&line=FF2E97&point=B14AED&area=true&area_color=B14AED&hide_border=true&custom_title=Contribution%20Activity"
-  width="100%"
-  alt="activity graph"
-/>
-
 </div>
 
 <div align="center">
